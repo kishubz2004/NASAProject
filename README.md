@@ -206,8 +206,4 @@ test_model_on_data(test_data_path, model, output_file)
 ### 4. **FileNotFoundError**
 - Double-check the data directory structure to ensure files are placed correctly as per the project structure.
 
-## Acknowledgements
-
-- This project was developed for NASA's Space Apps Challenge 2024.
-- Special thanks to Vishwas Sai, Supreeth, Kishore, Gagan Sai Deep.
 
